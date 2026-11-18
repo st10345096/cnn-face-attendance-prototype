@@ -28,3 +28,5 @@ These results are limited to a small dataset and do not establish performance ac
 ## Data privacy
 
 Participant photographs, face profiles, consent records, and attendance logs are not included in this repository. Use only images collected with participants’ consent.
+
+The participant photo ZIP is not included in this repository because it contains biometric images. The dataset is stored separately for the project. To run the notebook, provide your own participant images with appropriate consent.
